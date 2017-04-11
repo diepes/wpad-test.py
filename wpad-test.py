@@ -32,11 +32,11 @@ def printurlinfo(url):
 
 print "Start."
 printurlinfo("http://elephant")
-printurlinfo("http://elephant.clover.co.za")
-printurlinfo("http://clover-internal.sourcing.co.za")
+printurlinfo("http://elephant.anon.co.za")
+printurlinfo("http://anon-internal.sourcing.co.za")
 printurlinfo("http://127.0.0.1")
-printurlinfo("http://www.clover.co.za")
-printurlinfo("http://blog.clover.co.za")
+printurlinfo("http://www.anon.co.za")
+printurlinfo("http://blog.anon.co.za")
 printurlinfo("http://www.google.com")
 printurlinfo("http://www.cisco.com")
 printurlinfo("http://www.is.co.za")
